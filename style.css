@@ -1,0 +1,21 @@
+#jumbotron {
+    background-image: url("img/top-view-lipsticks-arrangement_23-2148978113.jpg");
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+}
+
+#jumbotron h1 {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #ff4d6d;
+    border-color: #ff4d6d;
+}
+
+.btn-primary:hover {
+    background-color: #e43b5f;
+}
